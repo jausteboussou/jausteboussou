@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jausteboussou
 - 👀 I’m interested for programming
-- 🌱 I’m currently learning Python and Powershell
+- 🌱 I’m currently learning Python, Powershell and Automation.
 - 📫 How to reach me: ...
 
 <!---
